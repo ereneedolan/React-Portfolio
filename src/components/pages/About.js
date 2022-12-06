@@ -1,5 +1,5 @@
 import React from 'react';
-import EileenDolan from /../assets/EileenDolan.jpg
+import EileenDolan from '../../assets/EileenDolan.jpg'
 
 export default function About() {
   return (
